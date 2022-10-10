@@ -33,7 +33,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![JetBrains Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=rider)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-333333?style=flat&logo=visual-studio-ide&logoColor=2C2255)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-333333?style=flat&logo=visualstudio&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
