@@ -35,7 +35,7 @@
   ![JetBrains Rider](https://img.shields.io/badge/Rider-333333?style=flat&logo=rider)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-333333?style=flat&logo=visualstudio&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Houdini](https://img.shields.io/badge/-Houdini-333333?style=flat&logo=houdini)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
