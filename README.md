@@ -38,6 +38,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine)
+  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
 
 <br/>
 
