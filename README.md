@@ -37,7 +37,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/UE5-GameEngine-blue-333333?style=flat&logo=adobe-indesign)
+  ![InDesign](https://img.shields.io/badge/UE5-GameEngine-blue-333333?style=flat&logo=unreal-engine)
 
 <br/>
 
