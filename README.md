@@ -45,7 +45,7 @@
 
 <a href="https://github.com/mfernandez4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfernandez4&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez4&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez4&theme=buefy&layout=compact&langs_count=10" />
 </a>
 
 <br/>
