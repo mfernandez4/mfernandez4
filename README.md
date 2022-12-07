@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mark-fernandez/mark-fernandez/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/mfernandez4/mfernandez4/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
