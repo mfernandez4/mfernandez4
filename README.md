@@ -8,6 +8,8 @@
   <img src="https://raw.githubusercontent.com/mfernandez4/mfernandez4/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+![Profile views](https://gpvc.arturio.dev/mfernandez4)  <img src="https://img.shields.io/github/followers/mfernandez4?label=Follow" style=" float:left, margin-right:10px" />
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing video games, learning web development.
@@ -15,6 +17,8 @@
 - 💼 &nbsp; Working as a Senior Technical Artist at Swivel Meta.
 - 🌱 &nbsp; Learning more about Web Development, Procedural Game Design and Systems Design.
 - ✍️ &nbsp; In a state of constant learning, currently chasing web development and design.
+
+---
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,17 +52,32 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+  
+---
+
+### Tech & Tools Preference
+
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+---
 
 <br/>
 
-<a href="https://github.com/mfernandez4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mfernandez4&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez4&theme=dark&layout=compact&langs_count=10" />
-</a>
+<table align="center" style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <a href="https://github.com/mfernandez4">
+        <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mfernandez4&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandez4&theme=dark&layout=compact&langs_count=10" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> Let's connect 👨‍💻 and forge the future together.😁✌ </h3>
 
 <p align="center">
 <a href="https://www.sweetpixeldreams.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sweetpixeldreams.dev-blue?style=flat-square&logo=google-chrome"></a>
