@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/mfernandez4/mfernandez4/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-![Profile views](https://gpvc.arturio.dev/mfernandez4)  <img src="https://img.shields.io/github/followers/mfernandez4?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=mfernandez4)  <img src="https://img.shields.io/github/followers/mfernandez4?label=Follow" style=" float:left, margin-right:10px" />
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
